@@ -1,4 +1,4 @@
-.TH man 3 "05 OCT 2021" "1.0" "_printf man page"
+.TH man 3 "April 19, 2022" "1.0" "_printf man page"
 .SH NAME
 .B _printf
 - Formatted output conversion.
@@ -56,4 +56,4 @@ Prints a string converted to rot13
 .B %
 A '%' is written but no argument is converted. The complete version specification is '%%'
 .SH AUTHORS
-Fitsum Belay, Mathyas Yazew
+Biruk Abegaz, Bemnet Abegaz
